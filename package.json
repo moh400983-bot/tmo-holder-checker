@@ -1,0 +1,9 @@
+{
+  "name": "tmo-holder-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TMO NFT holder checker",
+  "engines": {
+    "node": ">=18"
+  }
+}
